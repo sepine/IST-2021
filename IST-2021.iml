@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/datasets" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="alternatingDecisionTrees" level="project" />
+    <orderEntry type="library" name="chiSquaredAttributeEval" level="project" />
+    <orderEntry type="library" name="classificationViaClustering" level="project" />
+    <orderEntry type="library" name="consistencySubsetEval" level="project" />
+    <orderEntry type="library" name="CVAttributeEval" level="project" />
+    <orderEntry type="library" name="jackson-core-asl-1.9.13" level="project" />
+    <orderEntry type="library" name="jackson-mapper-asl-1.9.13" level="project" />
+    <orderEntry type="library" name="naiveBayesTree" level="project" />
+    <orderEntry type="library" name="probabilisticSignificanceAE" level="project" />
+    <orderEntry type="library" name="RBFNetwork" level="project" />
+    <orderEntry type="library" name="ridor" level="project" />
+    <orderEntry type="library" name="simpleCART" level="project" />
+    <orderEntry type="library" name="SVMAttributeEval" level="project" />
+    <orderEntry type="library" name="weka" level="project" />
+  </component>
+</module>
